@@ -1,4 +1,4 @@
-# leap_year
+# Checking whether an year is leap year or not
 This is a Simple Project using python to check whether an year is leap year or not.   
 
 The Logic is Simple..  
